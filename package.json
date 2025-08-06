@@ -1,9 +1,9 @@
 {
-  "name": "clase-react",
+  "name": "usestate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mflor-pd.github.io/ejercicio-useState",
+  "homepage": "https://mflor-pd.github.io/useState",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
