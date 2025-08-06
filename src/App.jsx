@@ -21,6 +21,7 @@ function App() {
       
       <form onSubmit={changeNames}>
         <input 
+        style={{ marginRight: '10px' }}
           type="text" 
           placeholder="Escribe el nuevo nombre" 
           value={newName} 
