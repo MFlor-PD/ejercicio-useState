@@ -10,6 +10,7 @@ function App() {
     return (
         <div className="App">
             <h1>Cambiale el nombre al Profesor</h1>
+            <p>Haz click sobre cualquiera de los nombres de la lista y observa como cambia el nombre del teacher</p>
             <h2>Teacher Name: {name}</h2>
              <ul>
         {names.map((prof, index) => (
